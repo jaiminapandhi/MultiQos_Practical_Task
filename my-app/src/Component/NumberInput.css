@@ -1,0 +1,17 @@
+.number-input {
+    display: flex;
+    align-items: center;
+  }
+  
+  .number-input button {
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .number-input input {
+    width: 50px;
+    text-align: center;
+  }
+  
